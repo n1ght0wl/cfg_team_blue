@@ -8,7 +8,7 @@ CFG Machine Learning Challenge Project
 
 - [Androulla](https://github.com/n1ght0wl)
 - [Katy Smith](https://github.com/catrionafsmith)
-- [Dinar Akmurzina](https://github.com/dakmurzina)
+- [Dinara Akmurzina](https://github.com/dakmurzina)
 - [Inês Barbosa](https://github.com/MInesBarbosaa)
 
 
