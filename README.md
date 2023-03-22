@@ -12,4 +12,10 @@ CFG Machine Learning Challenge Project
 - [Inês Barbosa](https://github.com/MInesBarbosaa)
 
 
+## Documentation Notes
+
+
 https://docs.google.com/document/d/12_pROXiVYHJed5KSaOwO00bsYVBXHEqtEQvY31rwdmc/edit
+
+
+## Presentation Slides
