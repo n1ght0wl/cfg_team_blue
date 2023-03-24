@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>mouse9.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\train\mouse9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>703</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>13</ymin>
+			<xmax>690</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

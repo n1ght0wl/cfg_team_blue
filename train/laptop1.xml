@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>laptop1.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\train\laptop1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>713</xmin>
+			<ymin>134</ymin>
+			<xmax>3581</xmax>
+			<ymax>2934</ymax>
+		</bndbox>
+	</object>
+</annotation>

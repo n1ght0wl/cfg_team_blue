@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>keyboard3.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\train\keyboard3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>913</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>12</ymin>
+			<xmax>2570</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+</annotation>

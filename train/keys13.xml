@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>keys13.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\train\keys13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>key</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>3</ymin>
+			<xmax>216</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

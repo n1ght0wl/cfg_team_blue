@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>mag17.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\train\mag17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1902</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>magnifying-glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>140</ymin>
+			<xmax>951</xmax>
+			<ymax>1299</ymax>
+		</bndbox>
+	</object>
+</annotation>

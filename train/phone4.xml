@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>phone4.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\train\phone4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>696</xmin>
+			<ymin>105</ymin>
+			<xmax>1837</xmax>
+			<ymax>1602</ymax>
+		</bndbox>
+	</object>
+</annotation>
