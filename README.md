@@ -16,7 +16,8 @@ CFG Machine Learning Challenge Project
 
 <li>Model 1 - (description)</li>
 <li>Model 2 - (description)</li>
-<li>PyTorch_faster_RCNN - (description)</li>
+<li>Model 3 - Faster R-CNN ResNet-50-FPN - consists of two main components: a region proposal network (RPN) and a detection network</li>
+<li>Model 4 - Transfer Learning Faster R-CNN - fine-tuned on small dataset of mannually annotated images in LabelImg</li>
 
 
 
