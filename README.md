@@ -14,9 +14,9 @@ CFG Machine Learning Challenge Project
 
 ##
 
-Model 1 - (description)
-Model 2 - loads the InceptionV3 model with pre-trained weights on ImageNet.
-PyTorch_faster_RCNN - (description)
+<li>Model 1 - (description)</li>
+<li>Model 2 - loads the InceptionV3 model with pre-trained weights on ImageNet.</li>
+<li>PyTorch_faster_RCNN - (description)</li>
 
 
 
