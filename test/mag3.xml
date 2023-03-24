@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>mag3.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\test\mag3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>magnifying-glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>42</ymin>
+			<xmax>345</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

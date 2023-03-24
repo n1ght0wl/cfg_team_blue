@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>keyboard10.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\test\keyboard10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>671</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>116</ymin>
+			<xmax>975</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+</annotation>

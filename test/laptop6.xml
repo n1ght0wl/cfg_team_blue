@@ -1,0 +1,26 @@
+<annotation>
+	<folder>laptop</folder>
+	<filename>images (2).jpg</filename>
+	<path>C:/Users/INEBAR/PycharmProjects/pythonProject/lmg/val_data/laptop/images (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>16</ymin>
+			<xmax>255</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

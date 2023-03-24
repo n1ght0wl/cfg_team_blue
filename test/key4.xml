@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>key4.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\test\key4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>key</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>35</ymin>
+			<xmax>600</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

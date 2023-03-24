@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pythonProject</folder>
+	<filename>03POP0TjDjuXonJXI16Omn2-1.fit_lim.size_840x473.v1663720055.jpg</filename>
+	<path>C:/Users/INEBAR/PycharmProjects/pythonProject/03POP0TjDjuXonJXI16Omn2-1.fit_lim.size_840x473.v1663720055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>473</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>45</ymin>
+			<xmax>689</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

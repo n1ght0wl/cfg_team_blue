@@ -1,0 +1,26 @@
+<annotation>
+	<folder>laptop</folder>
+	<filename>modern-laptop-computer-isolated-1241681.jpg</filename>
+	<path>C:/Users/INEBAR/PycharmProjects/pythonProject/lmg/train_data/laptop/modern-laptop-computer-isolated-1241681.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>586</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>20</ymin>
+			<xmax>555</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>
