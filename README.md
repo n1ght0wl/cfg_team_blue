@@ -12,6 +12,14 @@ CFG Machine Learning Challenge Project
 - [Inês Barbosa](https://github.com/MInesBarbosaa)
 
 
+##
+
+Model 1 - (description)
+Model 2 - loads the InceptionV3 model with pre-trained weights on ImageNet.
+PyTorch_faster_RCNN - (description)
+
+
+
 ## Notes
 
 
