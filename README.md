@@ -20,7 +20,7 @@ CFG Machine Learning Challenge Project
 
 
 
-## Notes
+## Minutes from Meeting
 
 
 https://docs.google.com/document/d/12_pROXiVYHJed5KSaOwO00bsYVBXHEqtEQvY31rwdmc/edit
