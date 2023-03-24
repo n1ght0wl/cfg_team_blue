@@ -28,3 +28,7 @@ https://docs.google.com/document/d/12_pROXiVYHJed5KSaOwO00bsYVBXHEqtEQvY31rwdmc/
 
 
 ## Presentation Slides
+
+https://docs.google.com/presentation/d/1d0U5d7bMhLA4F_6heHdZt8Yb2ZzmRIqtZbyMguI3WbA/edit#slide=id.g22362ba1a62_1_53
+
+<img width="884" alt="Screen Shot 2023-03-24 at 10 50 46 pm" src="https://user-images.githubusercontent.com/113362369/227513896-1b1b78e7-191c-4ad5-b1f1-929c1b6cac8f.png">
