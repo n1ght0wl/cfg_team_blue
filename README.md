@@ -21,7 +21,7 @@ CFG Machine Learning Challenge Project
 
 
 
-## Minutes from Meetings
+## Meeting minutes
 
 
 https://docs.google.com/document/d/12_pROXiVYHJed5KSaOwO00bsYVBXHEqtEQvY31rwdmc/edit
