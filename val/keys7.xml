@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>keys7.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\val\keys7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>230</width>
+		<height>219</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>key</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>7</ymin>
+			<xmax>222</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

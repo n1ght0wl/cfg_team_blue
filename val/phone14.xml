@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>phone14.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\val\phone14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>5</ymin>
+			<xmax>221</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

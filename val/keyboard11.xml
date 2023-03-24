@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>keyboard11.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\val\keyboard11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>647</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>42</ymin>
+			<xmax>1555</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

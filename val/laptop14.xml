@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>laptop14.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\val\laptop14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>49</ymin>
+			<xmax>884</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>mag9.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\val\mag9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>980</width>
+		<height>980</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>magnifying-glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>219</ymin>
+			<xmax>662</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	</object>
+</annotation>

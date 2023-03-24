@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>mouse18.jpg</filename>
+	<path>C:\Users\Dinara Akmurzina\Desktop\data1\val\mouse18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>688</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>161</ymin>
+			<xmax>405</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>
